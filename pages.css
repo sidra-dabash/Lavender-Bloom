@@ -1,0 +1,50 @@
+@media screen and (max-width: 768px) {
+  body{
+    width: 100%;
+  }
+  .peopleFumes{
+    position: relative;
+    margin-top: 60px;
+  }
+.people-comments{
+  position: absolute;
+  top: 1000px;
+}
+.best-men-comments{
+  margin-top: 1000px;
+}
+footer {
+  position: absolute;
+  top: 1650px;
+}
+.men-footer-best{
+  position: absolute;
+  top: 1390px;
+}
+.Men-footer{
+  position: absolute;
+  top: 1700px;
+}
+.WomensPerfumes-icon{
+  margin-top: 90px;
+}
+.section-title{
+  margin-top: 20px;
+}
+.Men-comments{
+  width: 99%;
+}
+.NsturalFlower-icon{
+  margin-top: 140px;
+}
+.NsturalFlower-card{
+  margin-top: 120px;
+}
+.flowers-comments{
+  margin-top: 1750px;
+}
+.container{
+  width: 200px;
+
+}
+}
